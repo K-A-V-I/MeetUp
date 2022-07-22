@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "279528824419",
+    "firebase_url": "https://meetup-e7533-default-rtdb.firebaseio.com",
+    "project_id": "meetup-e7533",
+    "storage_bucket": "meetup-e7533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279528824419:android:9a7ccf5543446696a0e256",
+        "android_client_info": {
+          "package_name": "com.codewithbee.meetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279528824419-mvnoiqdhj47noeth7p8dgvl6d6pufg00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1L9kYUxXLQ39K7Yuvq0kIY7jBvWT1Ns4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279528824419-mvnoiqdhj47noeth7p8dgvl6d6pufg00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

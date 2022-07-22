@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="container" type="id" />
+    <item name="chatBack" type="id" />
+    <item name="content" type="id" />
+    <item name="matchesBack" type="id" />
+    <item name="Matchid" type="id" />
+    <item name="lastMessage" type="id" />
+    <item name="noCardsBanner" type="id" />
+</resources>
