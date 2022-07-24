@@ -9,20 +9,22 @@
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_btn_like.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_chat.xml" value="0.264" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_choose_login_and_reg.xml" value="0.264" />
-        <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_forget_password.xml" value="0.264" />
+        <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_forget_password.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_main2.xml" value="0.11119554204660588" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_matches.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_register.xml" value="0.253125" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_settings.xml" value="0.144" />
+        <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/activity_splash_screen1.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/item.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/item_chat.xml" value="0.16847826086956522" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/item_matches.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/item_profile.xml" value="0.1" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/layout_top_navigation_back.xml" value="0.2" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/layout_top_navigator.xml" value="0.176" />
-        <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/splash_screen.xml" value="0.176" />
+        <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/splash_screen.xml" value="0.152" />
+        <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/splashscreen1.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/toolbar.xml" value="0.12107396149949341" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/toolbar_matches.xml" value="0.136" />
         <entry key="..\:/Users/kavi1/AndroidStudioProjects/MeetUP2/app/src/main/res/layout/toolbar_settings.xml" value="0.11626139817629179" />
