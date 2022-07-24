@@ -7,13 +7,13 @@
     tools:context=".SplashScreenActivity">
 
 
-   <ImageView
-       android:id="@+id/image_splash_screen"
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:layout_gravity="center"
-       android:src="@drawable/splash3"
-       tools:ignore="MissingConstraints" />
+    <ImageView
+        android:id="@+id/image_splash_screen"
+        android:layout_width="645dp"
+        android:layout_height="839dp"
+        android:layout_gravity="center"
+        android:src="@drawable/splash3"
+        tools:ignore="MissingConstraints" />
 
 
 </FrameLayout>
